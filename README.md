@@ -1,6 +1,6 @@
 # Instaangular
 
-Un simple layout de instagram hecho en angular, en un ipone 12 pro se vería de la siguiente manera:
+Un simple layout de instagram con scroll para fotos y slider de stories hecho en angular, en un ipone 12 pro se vería de la siguiente manera:
 
 <a href="https://i.ibb.co/qmJbGGx/captura-Insta-Angular.png">https://i.ibb.co/qmJbGGx/captura-Insta-Angular.png</a>
 
