@@ -2,8 +2,7 @@
 
 Un simple layout de instagram hecho en angular, en un ipone 12 pro se vería de la siguiente manera:
 
-
-<img src="https://i.ibb.co/qmJbGGx/captura-Insta-Angular.png" alt="JuveR" width="428px">
+<img src="https://i.ibb.co/qmJbGGx/captura-Insta-Angular.png" alt="captura-Insta-Angular" border="0">
 
 
 
