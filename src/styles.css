@@ -1,1 +1,123 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+
+
+
+body {
+    height: 100vh;
+    width: 100%;
+    background-color: fff;
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.placeholder {
+    padding-top: 6vh;
+}
+
+.top {
+    height: 5vh;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    z-index: 101;
+}
+
+.logo > img {
+    object-fit: cover;
+    height: 5vh;
+    width: auto;
+}
+
+.topIcons{
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.topIcons>a{
+    margin: 5px;
+}
+
+
+
+.imgLogo {
+    object-fit: cover;
+    height: 4em;
+    width: auto;
+}
+
+.scroll {
+    padding: 0.5rem;
+    margin: auto;
+}
+
+.imgScroll {
+    background: linear-gradient(30deg, rgba(44,0,30,1) 0%, rgba(233,216,32,1) 0%, rgba(210,1,191,1) 80%);
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+}
+
+.imgScroll > img {
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 3px;
+    width: 62px;
+    height: 62px;
+    border: 2px solid white;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 5px;
+}
+
+.imgGrid {
+    flex-basis: 130px;
+}
+
+.imgGrid > img{
+    object-fit: cover;
+    width: 130px;
+    height: 180px;
+    overflow: hidden;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.bottom {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    z-index: 101;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.profileImg {
+}
+
+.profileImg > img {
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 800,
+  'GRAD' 400,
+  'opsz' 42
+}
