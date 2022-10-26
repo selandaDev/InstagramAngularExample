@@ -2,7 +2,8 @@
 
 Un simple layout de instagram hecho en angular, en un ipone 12 pro se vería de la siguiente manera:
 
-![](https://i.ibb.co/qmJbGGx/captura-Insta-Angular.png){width='428' height='926'}
+
+<img src="https://i.ibb.co/qmJbGGx/captura-Insta-Angular.png" alt="JuveR" width="428px">
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
