@@ -4,8 +4,6 @@ Un simple layout de instagram con scroll para fotos y slider de stories hecho en
 
 <a href="https://ibb.co/hLDPCsK"><img src="https://i.ibb.co/n6zHRrD/Captura-insta.png" alt="Captura-insta" border="0"></a>
 
-<img src="https://i.ibb.co/n6zHRrD/Captura-insta.png" alt="captura-Insta-Angular" border="0" width="428" height="926">
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
